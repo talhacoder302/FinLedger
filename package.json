@@ -1,0 +1,15 @@
+{
+  "name": "finledger",
+  "version": "1.0.0",
+  "description": "A production-inspired banking backend demonstrating account management, balance maintenance, money transfers, transaction processing, ledger accounting, and audit trails.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
